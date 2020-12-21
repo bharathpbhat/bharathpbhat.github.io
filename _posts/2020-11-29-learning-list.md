@@ -17,3 +17,5 @@ I'll be maintaining my long term reading list here, with the hope of linking eac
   - ViLBERT - [Paper](https://arxiv.org/abs/1908.02265)
   - Standalone self-attention in vision models - [Paper](https://arxiv.org/pdf/1906.05909.pdf)
 - Gaussian Processes - [Book](http://www.gaussianprocess.org/gpml/)
+- Paxos
+- Alphafold
