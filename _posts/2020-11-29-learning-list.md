@@ -12,7 +12,7 @@ I'll be maintaining my long term reading list here, with the hope of linking eac
   - Very Deep VAEs - [Paper](https://openreview.net/pdf?id=RLRXCV6DbEJ)
   - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments - [Paper](https://arxiv.org/abs/2006.09882)
 - Misc
-  - Energy based models for Out of Distribution Detection - [Paper](https://arxiv.org/abs/2010.03759)
+  - Energy based models for Out of Distribution Detection - [Paper](https://arxiv.org/abs/2010.03759), [Post](/2021/04/04/getting-confidence-estimates-from-neural-networks.html)
 - Attention / Transformers in Vision
   - ViLBERT - [Paper](https://arxiv.org/abs/1908.02265)
   - Standalone self-attention in vision models - [Paper](https://arxiv.org/pdf/1906.05909.pdf)
